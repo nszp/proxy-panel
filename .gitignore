@@ -1,0 +1,9 @@
+node_modules
+
+/app/styles/tailwind.css
+/.cache
+/build
+/public/build
+.env
+
+yarn.lock

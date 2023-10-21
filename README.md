@@ -1,0 +1,2 @@
+This is a configuration panel I made for a Hypixel proxy. Remix probably wasn't the best choice, but I like the custom optimal data fetching I implemented on top of Remix's built-in utilities. This was created using Tailwind UI.
+ 
